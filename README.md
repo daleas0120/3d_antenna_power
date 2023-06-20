@@ -1,5 +1,5 @@
 # 3d_antenna_power
-Collection of .stl files of the power envelopes for different antenna models.
+Collection of .stl files of the power envelopes for different antenna models.  First published in ["Engineering and Informatics Student Multidisciplinary Learning using 3D Visualization and 3D Display of Radio Frequency (RF) Concepts"](https://ieeexplore.ieee.org/abstract/document/8658787).
 
 This research is sponsored by the US Navy (Office of Naval Research) grant N00014-16-1-2810, with the support of NSWC-Crane Division in Crane, Indiana.
 
