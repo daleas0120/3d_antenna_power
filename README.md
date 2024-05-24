@@ -3,6 +3,9 @@ Collection of .stl files of the power envelopes for different antenna models.  F
 
 This research is sponsored by the US Navy (Office of Naval Research) grant N00014-16-1-2810, with the support of NSWC-Crane Division in Crane, Indiana.
 
+<script src="https://embed.github.com/view/3d/daleas0120/3d_antenna_power/blob/main/array_16x16.stl"></script>
+
+
 ## Citation
 ```
 @inproceedings{christopher2018engineering,
